@@ -1,0 +1,15 @@
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\bin\Debug\net7.0\Excomple001_Hello_World.exe
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\bin\Debug\net7.0\Excomple001_Hello_World.deps.json
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\bin\Debug\net7.0\Excomple001_Hello_World.runtimeconfig.json
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\bin\Debug\net7.0\Excomple001_Hello_World.dll
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\bin\Debug\net7.0\Excomple001_Hello_World.pdb
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\Excomple001_Hello_World.csproj.AssemblyReference.cache
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\Excomple001_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\Excomple001_Hello_World.AssemblyInfoInputs.cache
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\Excomple001_Hello_World.AssemblyInfo.cs
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\Excomple001_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\Excomple001_Hello_World.dll
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\refint\Excomple001_Hello_World.dll
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\Excomple001_Hello_World.pdb
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\Excomple001_Hello_World.genruntimeconfig.cache
+C:\Users\Mitis\OneDrive\Рабочий стол\C#\Excomple001_Hello_World\obj\Debug\net7.0\ref\Excomple001_Hello_World.dll
